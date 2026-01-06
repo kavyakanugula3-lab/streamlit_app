@@ -38,6 +38,10 @@ Upload a doctor’s handwritten prescription
 ```
 streamlit run app.py
 ```
+## Project Output
+![Output](screenshots/output.png)
+## Gemini Response
+![response](screenshots/response.jpeg)
 ## Learning Outcomes
 * Working with Generative AI & LLMs
 * Image understanding using multimodal models
