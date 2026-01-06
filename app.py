@@ -4,7 +4,7 @@ import os
 import pathlib
 import textwrap 
 
-os.environ['GEMINI_API_KEY'] = 'AIzaSyAOp9o3aiGaDmhemX9fjdw7kcwofgfZOhQ' 
+os.environ['GEMINI_API_KEY'] = '' 
 
 import google.generativeai as genai
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
