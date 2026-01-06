@@ -40,6 +40,8 @@ streamlit run app.py
 ```
 ## Project Output
 ![Output](screenshots/output.png)
+## Uploads Prescription
+![upload](screenshots/prescription.jpeg)
 ## Gemini Response
 ![response](screenshots/response.jpeg)
 ## Learning Outcomes
