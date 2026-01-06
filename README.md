@@ -26,11 +26,11 @@ This project highlights real-world usage of Generative AI for image understandin
 * Gemini-3 analyzes the image content
 * App displays a clear textual response
 ## Key Features
-1 Image + text based AI interaction
-2 Clean and simple UI using Streamlit
-3 Multimodal AI support (Text + Image)
-4 Real-world use case (medical prescription analysis)
-5 Fast and accurate response generation
+* Image + text based AI interaction
+* Clean and simple UI using Streamlit
+* Multimodal AI support (Text + Image)
+* Real-world use case (medical prescription analysis)
+* Fast and accurate response generation
 ## Example Use Case
 Upload a doctor’s handwritten prescription
 → The model explains medicines, dosage hints, or notes in simple language
